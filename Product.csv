@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_price,baseline_unit_cost,ingredient_group
+P001,Espresso,Coffee,3.0,0.62,Coffee Beans
+P002,Americano,Coffee,3.5,0.72,Coffee Beans
+P003,Cappuccino,Coffee,4.5,1.05,Coffee Beans
+P004,Latte,Coffee,4.75,1.18,Coffee Beans
+P005,Mocha,Coffee,5.25,1.42,Coffee Beans
+P006,Cold Brew,Coffee,4.5,1.1,Coffee Beans
+P007,Iced Latte,Coffee,4.95,1.22,Coffee Beans
+P008,Chai Latte,Tea,4.25,0.88,Dairy
+P009,Green Tea,Tea,3.25,0.42,Tea
+P010,Butter Croissant,Pastry,3.25,1.05,Pastry
+P011,Blueberry Muffin,Pastry,3.5,1.12,Pastry
+P012,Cinnamon Roll,Pastry,3.75,1.2,Pastry
+P013,Breakfast Sandwich,Food,6.5,2.35,Food
+P014,Avocado Toast,Food,7.5,2.85,Food
+P015,Yogurt Parfait,Food,5.75,2.1,Dairy
